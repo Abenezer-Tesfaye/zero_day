@@ -1,9 +1,5 @@
-~~~~
-This is a
-piece of code
-in a block
-~~~~
+WordPress
+:  A semantic personal publishing platform
 
-```
-This too
-```
+Markdown
+:  Text-to-HTML conversion tool
